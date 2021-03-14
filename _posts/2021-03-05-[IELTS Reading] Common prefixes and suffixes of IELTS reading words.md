@@ -75,6 +75,7 @@ This is about IELTS Reading!
 |up-		|向上(adj.)		|uphill 向上, upset 心烦的, upper 地位较高的 |
 
 # 2. Common suffixes of IELTS
+
 |Suffix		|Meaning		|Example					|
 |-------	|-------		|-------					|
 |-able, -ible	|可...的, 能...的(adj.)	|readable 可读的, sensible 可察觉的		|
