@@ -16,26 +16,22 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2020.10 - Present: Research Assistant
+  * National Taiwan University
+  <!-- * Duties included:  -->
+  * Supervisor: Professor [Jyh-Shing Roger Jang](http://mirlab.org/jang/cv/cv.asp)
   
-Skills
+Honors & Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2020 - 2021. Distinguished Academic Record Award (2018 & 2019 Academic Year), World Kwong Tong Community Associations 
+* 2018 - 2020. Academic Excellence Award (Fall’2018, Fall’2019, Spring’2020), NTUST CSIE 
+* 2017. National Bronze Award ,3rd China "Internet+" University Students Innovation and Entrepreneurship Contest
+* 2017. Provincial Gold Award ,3rd China "Internet+" University Students Innovation and Entrepreneurship Contest
+* 2017. 2nd Prize, 4th “Challenge Cup” College Students’ Extracurricular Academic Science and Technology Contest,SZIIT
+* 2016. National Encouragement Scholarship, SZIIT 
+* 2016. Third Prize of Academic Award, SZIIT
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -55,4 +51,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
