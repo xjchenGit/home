@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Xuanjun Chen"
   avatar           : "profile.png"
-  bio              : "Research Assistant at National Taiwan University"
+  bio              : "Research Assistant @ NTU"
   location         : "Taipei, Taiwan"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "achenxuanjun@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
