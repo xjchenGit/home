@@ -18,14 +18,13 @@ Education
 
 Research Experience
 ======
-* 2020.10 - Present: Research Assistant
-  * National Taiwan University
+* Research Assistant, National Taiwan University, 2020.10 - Present.
   <!-- * Duties included:  -->
   * Supervisor: Professor [Jyh-Shing Roger Jang](http://mirlab.org/jang/cv/cv.asp)
   
 Honors
 ======
-* **Academic Excellence Scholarship (2 times)**, World Kwong Tong Community Associations, 2020-2021.
+* **Academic Excellence Scholarship (2 times)**, World Kwong Tong Community Associations, 2020 - 2021.
 * **Academic Excellence Award (3 times)**, CSIE at NTUST, Fall’18, Fall’19, Spring’20.
 * **National Bronze Award**, 3rd China "Internet+" University Students Innovation and Entrepreneurship Contest, 2017.
 * **Provincial Gold Award**, 3rd China "Internet+" University Students Innovation and Entrepreneurship Contest, 2017.
