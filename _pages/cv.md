@@ -1,6 +1,5 @@
 ---
 layout: archive
-permalink: /Education/
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,8 +8,8 @@ redirect_from:
 <!-- title: "CV" -->
 {% include base_path %}
 
-<!-- Education
-====== -->
+Education
+======
 * M.S. in Computer Science and Information Engineering, National Taiwan University, 2022 (expected).
   * Overall GPA: 4.21/4.3; Supervisor: Professor [Jyh-Shing Roger Jang](http://mirlab.org/jang/cv/cv.asp).
 * B.S. in Computer Science and Information Engineering, National Taiwan University of Science and Technology, 2020.
