@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.S. in Computer Science and Information Engineering, National Taiwan University, 2022 (expected)
-* B.S. in Computer Science and Information Engineering, National Taiwan University of Science and Technology, 2020
+* M.S. in Computer Science and Information Engineering, National Taiwan University, 2022 (expected).
+* B.S. in Computer Science and Information Engineering, National Taiwan University of Science and Technology, 2020.
 
 Research experience
 ======
@@ -33,7 +33,7 @@ Honors & Awards
 
 Volunteer
 =========
-* Jun 2019 - Aug 2019. 4th Cross-Strait Youth Maker Competition, Tongji University, Shanghai
+* Jun 2019 - Aug 2019. 4th Cross-Strait Youth Maker Competition, Tongji University, Shanghai.
 
 
 <!-- Publications
