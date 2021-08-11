@@ -14,7 +14,7 @@ Education
 * M.S. in Computer Science and Information Engineering, National Taiwan University, 2022 (expected)
 * B.S. in Computer Science and Information Engineering, National Taiwan University of Science and Technology, 2020
 
-Work experience
+Research experience
 ======
 * 2020.10 - Present: Research Assistant
   * National Taiwan University
